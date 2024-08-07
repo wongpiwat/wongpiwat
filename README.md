@@ -10,7 +10,7 @@
 - React, React Native, Next.js, Angular, Serverless Framework, Express.js, Firebase, PostgreSQL, and GraphQL.
 
 ## 📫 Contact
-- 💼 Portfolio: https://wongpiwat.netlify.app/
+- 💼 Website: https://wongpiwat.netlify.app/
 - 🔮 LinkedIn: https://www.linkedin.com/in/wongpiwat/
 - 📨 Email: [w.sangiam@vikes.csuohio.edu](mailto:w.sangiam@vikes.csuohio.edu)
 
