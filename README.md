@@ -16,7 +16,7 @@
 
 ## 🧰 Experienced Frameworks & Tools
 
-- React, React Native, Next.js, Angular, Serverless Framework, Express.js, Firebase, PostgreSQL, and GraphQL.
+- React, React Native, Next.js, Serverless Framework, Express.js, Firebase, PostgreSQL, and GraphQL.
 
 ## 📫 Contact
 
