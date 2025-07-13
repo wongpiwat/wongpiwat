@@ -4,19 +4,15 @@
 
 ## 🚀 About
 
-- Experienced Software Engineer with over 6 years of experience in production web and mobile application development,
-  collaborating with engineering teams to establish initiatives and strategies that drive software development to meet
-  customer requirements. Possessing excellent skills in software engineering, software architecture, and algorithms,
-  along with a strong work ethic and effective teamwork. Proven track record in developing web and mobile applications,
-  implementing API services, and identifying software issues.
+- Experienced Software Engineer with 6+ years of experience in production web and mobile application development.
 
 ## 💻 Experienced Programming Languages
 
-- JavaScript, TypeScript, Java, and Python.
+- TypeScript, JavaScript, Python, and Java.
 
 ## 🧰 Experienced Frameworks & Tools
 
-- React, React Native, Next.js, Serverless Framework, Express.js, Firebase, PostgreSQL, and GraphQL.
+- React, React Native, Next.js, Node.js, NestJS, Express.js, Serverless, Firebase, PostgreSQL, REST API, and GraphQL.
 
 ## 📫 Contact
 
