@@ -6,11 +6,11 @@
 
 - Experienced Software Engineer with 6+ years of experience in production web and mobile application development.
 
-## 💻 Experienced Programming Languages
+## 💻 Programming Languages
 
 - TypeScript, JavaScript, Python, and Java.
 
-## 🧰 Experienced Frameworks & Tools
+## 🧰 Frameworks & Tools
 
 - React, React Native, Next.js, Node.js, NestJS, Express.js, Serverless, Firebase, PostgreSQL, REST API, and GraphQL.
 
