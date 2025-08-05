@@ -5,7 +5,7 @@
 
 ## 💻 Programming Languages
 
-- TypeScript, JavaScript, Python, and Java.
+- TypeScript, JavaScript, and Python.
 
 ## 🧰 Frameworks & Tools
 
