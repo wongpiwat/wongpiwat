@@ -9,7 +9,7 @@
 
 ## 🧰 Frameworks & Tools
 
-- React, React Native, Next.js, Node.js, NestJS, Express.js, Serverless, Firebase, PostgreSQL, REST API, and GraphQL.
+- React, React Native, Next.js, Node.js, NestJS, Express.js, Serverless, Firebase, PostgreSQL, REST APIs, and GraphQL.
 
 ## 📫 Contact
 
