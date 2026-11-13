@@ -53,7 +53,7 @@ Built production AI agent systems combining LLMs, computer vision, retrieval sys
 - **Résumé:** https://wongpiwat-resume.vercel.app
 - **LinkedIn:** https://linkedin.com/in/wongpiwat
 - **GitHub:** https://github.com/wongpiwat
-- **Portfolio:** https://wongpiwat.netlify.app
+- **Website:** https://wongpiwat.netlify.app
 - **WhenWeMeet:** https://www.whenwemeet.xyz
 - **Open Source:** https://pub.dev/packages/trust_location
 
